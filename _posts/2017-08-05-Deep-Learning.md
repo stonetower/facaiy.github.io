@@ -37,7 +37,7 @@ update: 2017-08-15
 
 ##### [8 Optimization for Training Deep Models](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/deep_learning/Optimization_for_Training_Deep_Models/note.ipynb)
 
-##### 9 Convolutional Networks
+##### [9 Convolutional Networks](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/deep_learning/Convolutional_Networks/note.ipynb)
 
 ##### 10 Sequence Modeling: Recurrent and Recursive Nets
 
