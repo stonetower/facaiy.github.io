@@ -29,7 +29,8 @@ permalink: /about/
 1. 开源贡献：
 
    + [apache/spark](https://github.com/apache/spark): 2.0; 2.1; 2.2; 2.3;
-   + [Tencent/angel](https://github.com/Tencent/angel): 1.0.0;
+   + [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): 1.4;
+   + [Tencent/angel](https://github.com/Tencent/angel): 1.1;
    + [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): 0.18;
    + [pandas-dev/pandas](https://github.com/pandas-dev/pandas): 0.18; 0.19;
 
