@@ -7,16 +7,16 @@ update: 2017-05-15
 
 
 + 博客（不超过11个）
-    - [可能吧](https://kenengba.com/)
-    - [比特客栈的文艺复兴](https://bitinn.net/)
-    - [书格](https://shuge.org/)
-    - [電腦玩物](http://www.playpcesor.com/)
-    - [褪墨](http://www.mifengtd.cn/)
+    - [可能吧](https://kenengba.com/)：互联网
+    - [比特客栈的文艺复兴](https://bitinn.net/)：动漫
+    - [书格](https://shuge.org/)：古籍
+    - [電腦玩物](http://www.playpcesor.com/)：数位办工
+    - [褪墨](http://www.mifengtd.cn/)：时间管理
     - [小强的时间管理博客](http://www.gtdlife.com/)
-    - [秋凉](http://qiuliang.com/)
-    - [富朋友理財筆記](http://blog.17rich.com/)
-    - 书该怎么读：[知乎专栏](https://zhuanlan.zhihu.com/gaoxiaodushu)
-    - 硬派健身：[知乎专栏](https://zhuanlan.zhihu.com/oh-hard)
+    - [秋凉](http://qiuliang.com/)：摄影后期
+    - [Epiphqny](http://1994epiphqny.com/)：图像处理，深度学习
+    - 书该怎么读：[知乎专栏](https://zhuanlan.zhihu.com/gaoxiaodushu)：学习方法
+    - 硬派健身：[知乎专栏](https://zhuanlan.zhihu.com/oh-hard)：健身
 
 <br/>
 
